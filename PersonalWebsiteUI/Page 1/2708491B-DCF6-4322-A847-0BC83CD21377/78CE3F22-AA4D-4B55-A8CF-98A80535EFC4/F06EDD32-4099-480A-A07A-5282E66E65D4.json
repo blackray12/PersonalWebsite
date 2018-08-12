@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F06EDD32-4099-480A-A07A-5282E66E65D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 247,
+    "width": 1024,
+    "x": 0,
+    "y": 379
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "timeUnit Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C1F6CD5-9907-47FF-AB42-C077FA6E46C9",
+      "overrideName": "FECE60F6-1222-4F27-A19A-1FB30BEAD9D5_stringValue",
+      "value": "Weibo - Intern UI Designer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0650F4BB-F292-4347-9E2E-F49BCD1CA818",
+      "overrideName": "04E3D8AA-8FB5-4E95-AE5A-40E54609E21E_stringValue",
+      "value": "2015 ~ 2016"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39EA1060-1561-4398-A619-04992BFAB9E6",
+  "verticalSpacing": 0
+}

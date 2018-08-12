@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B8049BCA-F264-416A-B064-CF1E3F37A1A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F764063A-6209-4E5D-B4DB-38B48FB3599E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87D0787F-2FF7-4980-A180-9304C8DF4D58",
+    "height": 48,
+    "width": 160,
+    "x": 536,
+    "y": 303
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3DBA0A9-D72A-4F06-AB9C-D83B75F77BE9",
+      "overrideName": "100A0BC8-F268-41A6-BA65-6FE1D6218512_stringValue",
+      "value": "E-Mail"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "395EDCCF-3F48-43EE-BE89-82B9A7AFB82F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B955CE40-58DC-45C4-B373-72E594507A90",
+  "verticalSpacing": 0
+}

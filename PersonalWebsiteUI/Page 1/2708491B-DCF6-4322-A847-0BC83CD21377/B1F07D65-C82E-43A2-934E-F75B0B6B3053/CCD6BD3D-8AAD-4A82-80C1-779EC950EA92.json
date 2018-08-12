@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "CCD6BD3D-8AAD-4A82-80C1-779EC950EA92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 256,
+    "width": 1024,
+    "x": 0,
+    "y": 388
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle 5 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75225672-C2F2-4607-8AF1-4AD3F731A514",
+      "overrideName": "0D8A3C62-C153-4D51-A568-FC2BD08493FB_stringValue",
+      "value": "Prototype"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04A54945-C1A8-41E4-B61D-40C2661DD765",
+      "overrideName": "159D0C88-C086-45EC-88F4-B04C42DA9DFD_stringValue",
+      "value": "Superior skills with micro-interaction design, with Framer, Xcode, etc. "
+    }
+  ],
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAA402A5-E02E-4A35-9D72-8DE5E2A34843",
+  "verticalSpacing": 0
+}

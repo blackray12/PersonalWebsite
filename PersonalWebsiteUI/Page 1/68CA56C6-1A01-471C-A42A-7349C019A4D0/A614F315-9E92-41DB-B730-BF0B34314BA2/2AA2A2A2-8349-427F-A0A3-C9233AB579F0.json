@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2AA2A2A2-8349-427F-A0A3-C9233AB579F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABDC9FE8-C72D-42F4-BCC9-5803E9DBA826",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6145D78B-6195-4426-8815-27ABE4341B94",
+    "height": 18,
+    "width": 72,
+    "x": 814,
+    "y": 27
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navigationUnit",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90C8AAFC-E635-44AD-98FB-5A45595E048A",
+      "overrideName": "517197C8-402D-41B4-BBDC-8EF84B18DAF5_stringValue",
+      "value": "Aritcles"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB066C72-637D-4CDB-99FD-72E2D7BF0469",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E1AD076-BF91-4D45-AC0A-13F0CDCCB5B1",
+  "verticalSpacing": 0
+}

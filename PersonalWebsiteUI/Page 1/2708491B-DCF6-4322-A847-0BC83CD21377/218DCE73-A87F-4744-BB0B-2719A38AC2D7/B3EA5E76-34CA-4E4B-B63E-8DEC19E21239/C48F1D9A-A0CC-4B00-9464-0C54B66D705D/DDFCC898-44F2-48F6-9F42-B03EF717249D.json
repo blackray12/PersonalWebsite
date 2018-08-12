@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DDFCC898-44F2-48F6-9F42-B03EF717249D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "196BC07A-1D7A-495F-9EB0-7E42CB8715F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35EAD253-8579-4E00-B281-5974ECBBDAC2",
+    "height": 48,
+    "width": 160,
+    "x": 184,
+    "y": 246
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD9DEDD-7988-47D7-AB5C-362FA6560CFC",
+      "overrideName": "100A0BC8-F268-41A6-BA65-6FE1D6218512_stringValue",
+      "value": "Portfolio"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA6B18ED-D46F-46FB-BEF0-6F12808ED503",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B955CE40-58DC-45C4-B373-72E594507A90",
+  "verticalSpacing": 0
+}
